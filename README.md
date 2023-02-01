@@ -34,7 +34,7 @@ The task was to recreate the simple sign-up page as it is great in practicing ce
 ### Links
 
 - Solution URL: [Github](https://github.com/KahlvynO/Gradie-signup)
-- Live Site URL: [Netlify](https://gradie.netlify.app)
+- Live Site URL: [Netlify](https://gradie01.netlify.app)
 
 ## My process
 
