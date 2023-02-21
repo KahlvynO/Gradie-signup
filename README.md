@@ -1,4 +1,4 @@
-# Frontend Mentor - Notifications page solution
+# Codewell - Gradie Sign Up page solution
 
 
 This is a solution to the [Gradie Sign Up Page on Codewell.cc](https://www.codewell.cc/challenges/gradie-sign-up-page--608ac420650dff001599e8ec). Codewell challenges help you improve your coding skills by building realistic projects. 
